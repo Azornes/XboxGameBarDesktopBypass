@@ -10,4 +10,7 @@ For those who want to use the Xbox Game Bar and record a selected part of the sc
 - F12 - Panic button
 
 ## Bugs:
--Sometimes XboxGameBar doesn't detect Magnifixer, so if this happens, try again by closing Magnifixer (press F4 or manually) and press again F1
+- Sometimes XboxGameBar doesn't detect Magnifixer, so if this happens, try again by closing Magnifixer (press F4 or manually) and press again F1
+
+## Extra
+- If you want the best possible recording quality settings change the registers with BetterQualityNvidiaCapture.reg
