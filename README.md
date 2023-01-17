@@ -8,7 +8,7 @@ For those who want to use the Xbox Game Bar and record a selected part of the sc
 ![2023-01-17_12h54_02](https://user-images.githubusercontent.com/20650591/212892458-f7a76876-0f45-4432-bdba-4209ebc08447.png)
 
 ## How to Run
-- F1 ‎ ‎ ‎- Run script
+- F1 ‎ ‎ ‎- Run script and select part of the screen
 - F12 - Panic button
 
 ## Bugs:
