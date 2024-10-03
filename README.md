@@ -2,7 +2,7 @@
 For those who want to use the Xbox Game Bar and record a selected part of the screen.
 
 ## Installation
-1) Download and install Magnifixer (script tested vith ver. 10.2) https://www.fileeagle.com/pl/software/2685/Magnifixer/
+1) Download and install [Magnifixer](https://www.fileeagle.com/software/2685/Magnifixer/) (script tested vith ver. 10.2)
 2) If you still don't have autohotkey, download and install https://www.autohotkey.com/download/
 3) When you install Magnifixer, you need to change the path to it in the script (PathToMagnifixer := "Path\to\your\program\Magnifixer.exe")
 4) Run Magnifixer and change the options to match those in the following image.
